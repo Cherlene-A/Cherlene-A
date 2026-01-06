@@ -1,5 +1,5 @@
 -  Hi, I’m Cherlene
--  I’m interested in technology and data science
+-  I’m interested in technology and web development
 -  I’m currently learning computer science
 -  I’m looking to collaborate on innovative tech solutions
 
